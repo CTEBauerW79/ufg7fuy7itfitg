@@ -116,11 +116,11 @@ Work together on **Partner B**'s computer to make the following changes.
 
 **Why do you think it's important to create a new branch when making changes to the code, rather than making changes directly in the main branch?**
 
-Write your answer here!
+To avoid conflicts when multiple people are working on the project.
 
 **What does it mean to push your changes, and why is this an important step in using a version control system like Git?**
 
-Write your answer here!
+So that uncompleted code is not put, and updates are only done when wanted.
 
 ## Part 4: Open a pull request
 
@@ -160,8 +160,4 @@ A **pull request** is a method of submitting contributions to a project. It lets
 
 **Explain in your own words what a pull request is and why it's useful when collaborating on a codebase.**
 
-Write your answer here!
-
-**How did it feel to receive feedback on your own code? How can you use this feedback to improve your coding skills?**
-
-Write your answer here!
+A request to merge changes into the main branch, it is useful to allow for code to both be reviewed before added and to prevent conflicts.
